@@ -9,7 +9,7 @@ jdk 'JDK21'
         stage('Checkout') { 
             steps { 
                 git branch: 'main', 
-                    url: 'https://github.com/DarshanMAchar/demo-app.git' 
+                    url: 'https://github.com/AkshayRP12/lion.git' 
                      
             } 
         } 
